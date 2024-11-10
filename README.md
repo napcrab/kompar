@@ -11,3 +11,13 @@ For this to be realized it requires the following:
 
 # Status
 Not even close - if you are seriously in need of something similar to what is said in "Ambition" than I would recommend checking out gluon maybe, idk - I havent looked around
+
+# TODO
+## Design
+- [ ] Language Features/Design
+- [ ] Language Syntax
+## Programming
+- [ ] Syntax Parsing (GOOD ERROR MESSAGES PLEASE)
+- [ ] Syntax Validation (GOOD ERROR MESSAGES PLEASE)
+- [ ] Evaluation (In-built caching and whatnot)
+- [ ] Interaction with Rust (type conversions)
