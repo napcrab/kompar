@@ -1,5 +1,5 @@
 # Contribution
-If you, for some reason, want to contribute to this project, then please feel free to do so! It is not really meant to be an actually-useful-useable-in-prod type thing at all, it's just a solo-person-wanting-to-make-something-that-probably-already-exists type thing
+If you, for some reason, want to contribute to this project, then please feel free to do so! It is not really meant to be an actually-useful-useable-in-prod type thing at all, it's just a solo-person-wanting-to-make-something-that-probably-already-exists type thing - but if you like the idea than feel free to contribute :)
 
 # Ambition
 The idea for Kompar is to be a language specialized in "no-side-effect human-readable-and-writable data manipulation" - So for example imagine you have some user that wants to manipulate some data (This can be a program configuration, metadata for some images, etc), and you want to give them the opportunity to do this programatically, so that they can use maps, filters, conditionals or whatever else on the data on a bigger scale than what would be possible for them to do manually, but you dont want them to just be able to enter raw code and execute it for them, in case they do something wrong and cause some side effect - that is the use-case Kompar covers: to allow for a programmatic interface with data that can't cause side effects 
