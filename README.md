@@ -16,6 +16,9 @@ Not even close - if you are seriously in need of something similar to what is sa
 ## Design
 - [ ] Language Features/Design
 - [ ] Language Syntax
+## Documentation
+- [ ] Language book
+- [ ] Crate documentation
 ## Programming
 - [ ] Syntax Parsing (GOOD ERROR MESSAGES PLEASE)
 - [ ] Syntax Validation (GOOD ERROR MESSAGES PLEASE)

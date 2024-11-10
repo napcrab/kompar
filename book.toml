@@ -1,0 +1,6 @@
+[book]
+authors = ["Katarina"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Kompar Data Manipulation Language"
