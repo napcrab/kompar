@@ -24,3 +24,4 @@ Not even close - if you are seriously in need of something similar to what is sa
 - [ ] Syntax Validation (GOOD ERROR MESSAGES PLEASE)
 - [ ] Evaluation (In-built caching and whatnot)
 - [ ] Interaction with Rust (type conversions)
+- [ ] Standard libary
