@@ -15,12 +15,32 @@ Not even close - if you are seriously in need of something similar to what is sa
 # TODO
 ## Design
 - [ ] Language Features/Design
+  - [x] Type system
+  - [ ] Patterns and matching
 - [ ] Language Syntax
+  - [x] Primitive type creation
+  - [x] Storing state (variable, import, etc)
+  - [ ] Traits and Impls
+  - [ ] Function bodies 
+  - [ ] Patterns and matching
 ## Documentation
 - [ ] Language book
+  - [x] Simple types
+  - [ ] Typeception
+  - [ ] Functions
+  - [ ] Complex types
+  - [ ] Traits
+  - [ ] Patterns and such
 - [ ] Crate documentation
 ## Programming
 - [ ] Syntax Parsing (GOOD ERROR MESSAGES PLEASE)
+  - [x] Primitive types
+  - [ ] Unary operators
+  - [ ] Binary operators
+  - [ ] Ident (fields, idents)
+  - [ ] Control flow (if, match, etc)
+  - [ ] Binding (let, import, apply)
+  - [ ] Impls, traits and complex types
 - [ ] Syntax Validation (GOOD ERROR MESSAGES PLEASE)
 - [ ] Evaluation (In-built caching and whatnot)
 - [ ] Interaction with Rust (type conversions)

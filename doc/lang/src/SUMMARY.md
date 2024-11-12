@@ -2,12 +2,12 @@
 
 [Introduction](./introduction.md)
 
-- [Primitive Types]()
-  - [Simple Types]()
-    - [Numbers]()
-    - [Text]()
-    - [Boolean]()
-  - [Typeception and more advanced types]()
+- [Primitive Types](./primitive_types.md)
+  - [Simple Types](./primitive_types/simple_types.md)
+    - [Numbers](./primitive_types/simple_types/numbers.md)
+    - [Text](./primitve_types/simple_types/text.md)
+    - [Boolean](./primitive_types/simple_types/boolean.md)
+  - [Typeception and more advanced types](./primitive_types/typeception.md)
     - [Compound types]()
     - [Record and Union]()
   - [Functions]()
