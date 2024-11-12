@@ -4,7 +4,12 @@
 
 - [Primitive Types]()
   - [Simple Types]()
-  - [Typeception]()
+    - [Numbers]()
+    - [Text]()
+    - [Boolean]()
+  - [Typeception and more advanced types]()
+    - [Compound types]()
+    - [Record and Union]()
   - [Functions]()
 - [Complex Types]()
   - [Defining a complex type]()
